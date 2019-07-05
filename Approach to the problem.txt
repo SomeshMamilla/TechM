@@ -7,6 +7,6 @@ After several multiple linear regression model, I understood this requires
 
 #The idea is to build a randomforest boosted with heavy weights, also known as Xtreme Gradient Boosted Random Forest
 
-This will return an accuracy of 98%
+This will return an accuracy of 94%
 
 -----Good luck------
