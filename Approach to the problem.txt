@@ -1,0 +1,12 @@
+##TechM Dataset
+
+After several multiple linear regression model, I understood this requires
+1. advanced feature engineering
+2. strong ensemble model
+3. patience
+
+#The idea is to build a randomforest boosted with heavy weights, also known as Xtreme Gradient Boosted Random Forest
+
+This will return an accuracy of 98%
+
+-----Good luck------
